@@ -12,3 +12,15 @@ p, ul {
 ul {
   margin-left: 20px;
 }
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+a:link, a:visited {
+  color: #03C;
+}
